@@ -1,0 +1,7 @@
+
+pip install pandas
+pip install rapidfuzz
+pip install emoji
+pip install mock
+
+
